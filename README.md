@@ -1,2 +1,2 @@
-# freecodecamp-algorithms
+# FreeCodeCamp Algorithms
 My solutions to freecodecamp algorithms
