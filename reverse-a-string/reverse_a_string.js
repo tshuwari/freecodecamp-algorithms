@@ -13,5 +13,4 @@ function reverseString(str) {
 	var joinedArray = reversedArray.join("");
 	return joinedArray;
 }
-
 reverseString("hello");
